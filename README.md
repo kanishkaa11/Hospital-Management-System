@@ -1,2 +1,8 @@
 # Hospital-Management-System
-The Hospital Management System is a Java-based application developed using JavaFX for the frontend and MySQL for the backend. It is designed to streamline hospital operations by efficiently managing patient records, including details such as ID, name, age, gender, and medical condition. The system provides an intuitive user interface for adding, updating, searching, and deleting patient information, ensuring quick access to accurate data. MySQL serves as the secure and reliable database for storing all records, enabling seamless data retrieval and management. This project improves efficiency, reduces manual work, and enhances the overall patient management process in healthcare facilities.
+The Hospital Management System is a Java-based application developed using JavaFX for the frontend and MySQL for the backend. 
+
+It is designed to streamline hospital operations by efficiently managing patient records, including details such as ID, name, age, gender, and medical condition. 
+
+The system provides an intuitive user interface for adding, updating, searching, and deleting patient information, ensuring quick access to accurate data. 
+
+MySQL serves as the secure and reliable database for storing all records, enabling seamless data retrieval and management. This project improves efficiency, reduces manual work, and enhances the overall patient management process in healthcare facilities.
